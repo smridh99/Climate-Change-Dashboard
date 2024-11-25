@@ -7,4 +7,4 @@ Use python script to Python script to load the data, clean it, and create the pl
 Updates to this repository coming soon....
 
 
-Folowing data comes here
+Complete repo by tomorrow
