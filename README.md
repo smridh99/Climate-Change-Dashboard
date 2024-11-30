@@ -8,4 +8,4 @@ Updates to this repository coming soon....
 
 
 ok so tomorrow complete this: 
-i keep on slacking -- complete this on weekend
+update 2.0
