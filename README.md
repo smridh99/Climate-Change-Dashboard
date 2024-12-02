@@ -6,6 +6,4 @@ Use python script to Python script to load the data, clean it, and create the pl
 
 Updates to this repository coming soon....
 
-
-ok so tomorrow complete this: 
-Complete repository this week
+Countdown to trip begins...
