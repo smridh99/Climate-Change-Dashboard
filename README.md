@@ -2,6 +2,7 @@
 
 We use matplotlib to create a climate change dashboard based on some publicly available emissions data from Our World in Data (https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions)
 
+Dataset file: owid-co2-data.csv
 ## Usage
 
 - Load the cleaned and processed dataset.
