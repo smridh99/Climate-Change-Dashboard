@@ -22,3 +22,4 @@ The dashboard highlights:
 - Integrate real-time data updates.
 - Add interactive visualizations using libraries like Plotly or Dash.
 - Incorporate additional climate indicators for deeper analysis.
+
